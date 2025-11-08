@@ -105,7 +105,7 @@ WHERE f.user_session_id IS NOT NULL;
 - **Landing Page Conversion** — which pages drive the most sales  
 - **Date Filter & Interactive Segments** — fully customizable  
 
-🖥️ **View Dashboard:** [Ecommerce Funnel Dashboard — Looker Studio]([https://lookerstudio.google.com/u/0/reporting/f70a8191-d8a6-400c-955a-d9623fedccb5/page/p_5kmkf3ovod](https://lookerstudio.google.com/reporting/61c9e420-9c4a-400f-a24d-ac8b500f0ad4))  
+🖥️ **View Dashboard:** [Ecommerce Funnel Dashboard — Looker Studio](https://lookerstudio.google.com/reporting/61c9e420-9c4a-400f-a24d-ac8b500f0ad4)
 📄 **View SQL Query:** [Public BigQuery Query](https://console.cloud.google.com/bigquery?sq=244262756080:220ed50d2e844d4fa129f36f2a5302fe&project=eminent-kit-189316&ws=!1m4!1m3!8m2!1s244262756080!2s220ed50d2e844d4fa129f36f2a5302fe)  
 
 ---
