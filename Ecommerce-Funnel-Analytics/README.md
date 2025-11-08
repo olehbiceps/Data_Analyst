@@ -106,7 +106,7 @@ WHERE f.user_session_id IS NOT NULL;
 - **Date Filter & Interactive Segments** — fully customizable  
 
 🖥️ **View Dashboard:** [Ecommerce Funnel Dashboard — Looker Studio](https://lookerstudio.google.com/u/0/reporting/f70a8191-d8a6-400c-955a-d9623fedccb5/page/p_5kmkf3ovod)  
-📄 **View SQL Query:** [Public BigQuery Query (example link)](https://console.cloud.google.com/bigquery?sq=244262756080:220ed50d2e844d4fa129f36f2a5302fe&project=eminent-kit-189316&ws=!1m4!1m3!8m2!1s244262756080!2s220ed50d2e844d4fa129f36f2a5302fe)  
+📄 **View SQL Query:** [Public BigQuery Query](https://console.cloud.google.com/bigquery?sq=244262756080:220ed50d2e844d4fa129f36f2a5302fe&project=eminent-kit-189316&ws=!1m4!1m3!8m2!1s244262756080!2s220ed50d2e844d4fa129f36f2a5302fe)  
 
 ---
 
