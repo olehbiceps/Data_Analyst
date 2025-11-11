@@ -1,7 +1,7 @@
 # 🛍️ Ecommerce Funnel Dashboard
 
 **Автор:** Oleh Ustimov  
-**Проєкт:** Навчальний проєкт із Data Analytics / Mate academy  
+**Проєкт:** Ecommerce Funnel
 **Посилання на дашборд:**  
 🔗 [Ecommerce Funnel Dashboard — Looker Studio](https://lookerstudio.google.com/u/0/reporting/61c9e420-9c4a-400f-a24d-ac8b500f0ad4/page/tEnnC)
 
