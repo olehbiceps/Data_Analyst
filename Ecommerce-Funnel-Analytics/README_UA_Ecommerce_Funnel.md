@@ -1,7 +1,8 @@
 # 🛍️ Ecommerce Funnel Dashboard
 
 **Автор:** Oleh Ustimov  
-**Проєкт:** Ecommerce Funnel Dashboard
+**Проєкт:** 
+Ecommerce Funnel Dashboard
 **Посилання на дашборд:**  
 🔗 [Ecommerce Funnel Dashboard — Looker Studio](https://lookerstudio.google.com/u/0/reporting/61c9e420-9c4a-400f-a24d-ac8b500f0ad4/page/tEnnC)
 
